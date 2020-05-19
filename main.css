@@ -61,7 +61,7 @@ button:hover {
   width: 1400px;
   margin: auto;
   background-color: #f7f7f7;
-  height: 450vh;
+  height: 500vh;
   margin: 0 auto;
   display: grid;
   grid-template-columns: repeat(12, 1fr);
